@@ -1,7 +1,7 @@
 # ADR-25: Adopt Linear MCP Family SOTA Roadmap
 
 Date: 2026-07-09
-Status: Proposed in PR #25
+Status: Accepted
 Slug: mcp-family-sota-roadmap
 
 ## Context
