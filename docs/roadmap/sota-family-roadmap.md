@@ -3,7 +3,7 @@
 Status: archived adoption plan
 Owner: Linear MCP
 Scope: repo-local future plan and its role in the SylphxAI MCP family
-Decision record: pending PR-number ADR
+Decision record: `docs/adr/ADR-25-mcp-family-sota-roadmap.md`
 
 ## Family Role
 
