@@ -2,6 +2,8 @@
 
 A Model Context Protocol (MCP) server for interacting with Linear issues, projects, teams, project milestones and more.
 
+SOTA family roadmap: [docs/roadmap/sota-family-roadmap.md](docs/roadmap/sota-family-roadmap.md).
+
 ## Features
 
 - List, get, create, and update issues
